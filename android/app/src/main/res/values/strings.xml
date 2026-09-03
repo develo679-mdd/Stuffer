@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Stuffer</string>
+    <string name="title_activity_main">Stuffer</string>
+    <string name="package_name">com.modd.whereismystuff</string>
+    <string name="custom_url_scheme">com.modd.whereismystuff</string>
+</resources>

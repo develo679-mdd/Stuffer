@@ -1,0 +1,10 @@
+{
+  "description": "Organize and track your belongings by creating locations and adding items to each, making it easy to find what you need when you need it.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
